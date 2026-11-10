@@ -1,0 +1,83 @@
+{
+  "closed": 1,
+  "data": [
+    {
+      "id": "sumityadav-pr-1",
+      "title": "Add U-Net and DeepLabV3+ with ResNet-34 semantic segmentation pipeline",
+      "url": "https://github.com/sumityadav026/landcover-segmentation/pulls",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/150000000?v=4",
+        "login": "sumityadav026",
+        "url": "https://github.com/sumityadav026"
+      },
+      "createdAt": "2026-11-03T10:00:00Z",
+      "number": 1,
+      "changedFiles": 8,
+      "additions": 450,
+      "deletions": 20,
+      "baseRepository": {
+        "name": "landcover-segmentation",
+        "url": "https://github.com/sumityadav026/landcover-segmentation",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/150000000?v=4",
+          "login": "sumityadav026",
+          "url": "https://github.com/sumityadav026"
+        }
+      }
+    },
+    {
+      "id": "sumityadav-pr-2",
+      "title": "Build multimodal insurance claim analysis with YOLOv8 and FastAPI",
+      "url": "https://github.com/sumityadav026/ClaimShield/pulls",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/150000000?v=4",
+        "login": "sumityadav026",
+        "url": "https://github.com/sumityadav026"
+      },
+      "createdAt": "2026-08-10T12:00:00Z",
+      "number": 1,
+      "changedFiles": 12,
+      "additions": 680,
+      "deletions": 15,
+      "baseRepository": {
+        "name": "ClaimShield",
+        "url": "https://github.com/sumityadav026/ClaimShield",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/150000000?v=4",
+          "login": "sumityadav026",
+          "url": "https://github.com/sumityadav026"
+        }
+      }
+    },
+    {
+      "id": "sumityadav-pr-3",
+      "title": "Implement RAG document QA with FAISS vector search and CLIP multimodal search",
+      "url": "https://github.com/sumityadav026/Ai-Digital-Asset-Manager/pulls",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/150000000?v=4",
+        "login": "sumityadav026",
+        "url": "https://github.com/sumityadav026"
+      },
+      "createdAt": "2026-04-15T15:30:00Z",
+      "number": 1,
+      "changedFiles": 10,
+      "additions": 520,
+      "deletions": 30,
+      "baseRepository": {
+        "name": "Ai-Digital-Asset-Manager",
+        "url": "https://github.com/sumityadav026/Ai-Digital-Asset-Manager",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/150000000?v=4",
+          "login": "sumityadav026",
+          "url": "https://github.com/sumityadav026"
+        }
+      }
+    }
+  ],
+  "merged": 3,
+  "open": 0,
+  "totalCount": 4
+}

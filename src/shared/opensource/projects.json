@@ -1,0 +1,102 @@
+{
+  "data": [
+    {
+      "id": "sumityadav026-landcover-segmentation",
+      "name": "landcover-segmentation",
+      "createdAt": "2026-11-01T00:00:00Z",
+      "url": "https://github.com/sumityadav026/landcover-segmentation",
+      "description": "Satellite imagery semantic segmentation pipeline using PyTorch, U-Net, and DeepLabV3+ with ResNet-34 backbones evaluated on LandCover.ai.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "PyTorch",
+          "iconifyClass": "logos-pytorch"
+        },
+        {
+          "name": "Streamlit",
+          "iconifyClass": "simple-icons:streamlit"
+        }
+      ]
+    },
+    {
+      "id": "sumityadav026-ClaimShield",
+      "name": "ClaimShield",
+      "createdAt": "2026-08-01T00:00:00Z",
+      "url": "https://github.com/sumityadav026/ClaimShield",
+      "description": "AI-powered insurance claim analysis platform combining YOLOv8 computer vision and NLP with RAG-based policy retrieval and FastAPI backend.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "FastAPI",
+          "iconifyClass": "simple-icons:fastapi"
+        },
+        {
+          "name": "PyTorch",
+          "iconifyClass": "logos-pytorch"
+        }
+      ]
+    },
+    {
+      "id": "sumityadav026-Ai-Digital-Asset-Manager",
+      "name": "Ai-Digital-Asset-Manager",
+      "createdAt": "2026-04-01T00:00:00Z",
+      "url": "https://github.com/sumityadav026/Ai-Digital-Asset-Manager",
+      "description": "Intelligent document management platform combining RAG, FAISS vector embeddings, Groq LLMs, OpenAI CLIP multimodal zero-shot retrieval, and Streamlit.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Streamlit",
+          "iconifyClass": "simple-icons:streamlit"
+        }
+      ]
+    },
+    {
+      "id": "sumityadav026-Algochowk-Nifty-Research",
+      "name": "Algochowk-Nifty-Research",
+      "createdAt": "2026-08-15T00:00:00Z",
+      "url": "https://github.com/sumityadav026/Algochowk-Nifty-Research",
+      "description": "Quantitative econometric event study on NIFTY 50 post-crash recovery dynamics across 4,660+ trading days (2007–2026) with statistical robustness tests.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    },
+    {
+      "id": "sumityadav026-UrbanReport",
+      "name": "UrbanReport",
+      "createdAt": "2026-07-10T00:00:00Z",
+      "url": "https://github.com/sumityadav026/UrbanReport",
+      "description": "Smart civic issue reporting platform with automated categorization, location mapping, and status tracking workflows.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "simple-icons:javascript"
+        }
+      ]
+    }
+  ]
+}

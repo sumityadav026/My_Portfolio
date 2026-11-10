@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "login": "pytorch",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/21003710?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "huggingface",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/25720743?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "scikit-learn",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/365630?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "python",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1525981?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "fastapi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/102985325?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "streamlit",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/45109322?v=4",
+      "__typename": "Organization"
+    }
+  ]
+}

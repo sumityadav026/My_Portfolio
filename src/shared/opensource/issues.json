@@ -1,0 +1,87 @@
+{
+  "closed": 4,
+  "data": [
+    {
+      "id": "sumityadav-issue-1",
+      "closed": true,
+      "title": "Add class-weighted Dice Loss and evaluate mIoU benchmarks",
+      "createdAt": "2026-11-05T10:00:00Z",
+      "url": "https://github.com/sumityadav026/landcover-segmentation/issues",
+      "number": 1,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "landcover-segmentation",
+        "url": "https://github.com/sumityadav026/landcover-segmentation",
+        "owner": {
+          "login": "sumityadav026",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/150000000?v=4",
+          "url": "https://github.com/sumityadav026"
+        }
+      }
+    },
+    {
+      "id": "sumityadav-issue-2",
+      "closed": true,
+      "title": "Implement YOLOv8 vehicular damage localization pipeline",
+      "createdAt": "2026-08-12T14:30:00Z",
+      "url": "https://github.com/sumityadav026/ClaimShield/issues",
+      "number": 2,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "ClaimShield",
+        "url": "https://github.com/sumityadav026/ClaimShield",
+        "owner": {
+          "login": "sumityadav026",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/150000000?v=4",
+          "url": "https://github.com/sumityadav026"
+        }
+      }
+    },
+    {
+      "id": "sumityadav-issue-3",
+      "closed": true,
+      "title": "Optimize FAISS index retrieval and add source citations to responses",
+      "createdAt": "2026-04-20T08:15:00Z",
+      "url": "https://github.com/sumityadav026/Ai-Digital-Asset-Manager/issues",
+      "number": 3,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Ai-Digital-Asset-Manager",
+        "url": "https://github.com/sumityadav026/Ai-Digital-Asset-Manager",
+        "owner": {
+          "login": "sumityadav026",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/150000000?v=4",
+          "url": "https://github.com/sumityadav026"
+        }
+      }
+    },
+    {
+      "id": "sumityadav-issue-4",
+      "closed": false,
+      "title": "Integrate zero-shot CLIP image classification with Streamlit UI",
+      "createdAt": "2026-04-22T12:00:00Z",
+      "url": "https://github.com/sumityadav026/Ai-Digital-Asset-Manager/issues",
+      "number": 4,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Ai-Digital-Asset-Manager",
+        "url": "https://github.com/sumityadav026/Ai-Digital-Asset-Manager",
+        "owner": {
+          "login": "sumityadav026",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/150000000?v=4",
+          "url": "https://github.com/sumityadav026"
+        }
+      }
+    }
+  ],
+  "open": 1,
+  "totalCount": 5
+}
