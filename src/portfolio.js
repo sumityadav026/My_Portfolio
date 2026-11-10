@@ -363,17 +363,41 @@ const certifications = {
       alt_name: "CsePathshala",
       color_code: "#000000",
     },
+    {
+      title: "Cloud Computing",
+      subtitle: "- NPTEL (IIT Kharagpur)",
+      logo_path: "nptel_logo.png",
+      certificate_link: "nptel_cloud_computing_certificate.jpg",
+      alt_name: "NPTEL",
+      color_code: "#ffffff",
+    },
   ],
 };
 
 // Experience Page
 const experience = {
   title: "Experience",
-  subtitle: "Training, Projects & Academic Leadership",
+  subtitle: "Work Experience, Training & Projects",
   description:
-    "My hands-on experience covers structured training in competitive programming, applied engineering across multimodal AI and computer vision, and department-level academic curriculum modernization.",
+    "My hands-on experience covers AI model evaluation and multimodal data assessment, structured competitive programming training, and applied deep learning engineering.",
   header_image_path: "experience.svg",
   sections: [
+    {
+      title: "Work Experience",
+      experiences: [
+        {
+          title: "AI Model Evaluator",
+          company: "Outlier AI – Aether Project",
+          company_url: "https://outlier.ai/",
+          logo_path: "outlier_logo.png",
+          duration: "2026",
+          location: "Remote",
+          description:
+            "• Evaluated AI-generated image, video, audio, and text outputs to assess quality, accuracy, consistency, and relevance.\n• Performed comparative analysis of AI responses, identifying visual inconsistencies, transcription errors, factual inaccuracies, and reasoning issues.\n• Delivered structured human feedback and evidence-based judgments to improve AI model performance through human-in-the-loop (HITL) evaluation workflows.\n• Completed paid AI evaluation tasks for a global AI training initiative, demonstrating strong analytical reasoning and attention to detail.\n\nTech / Skills: AI Model Evaluation, Multimodal AI, NLP, Human-in-the-Loop (HITL), Image & Video Analysis, Audio Evaluation, Quality Assessment.",
+          color: "#000000",
+        },
+      ],
+    },
     {
       title: "Training",
       work: true,
